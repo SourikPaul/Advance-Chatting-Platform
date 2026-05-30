@@ -149,4 +149,4 @@ Supports real-time communication between connected users.
 **Sourik Paul**
 
 LinkedIn:
-[www.linkedin.com/in/sourik-paul-30516537](http://www.linkedin.com/in/sourik-paul7)
+[www.linkedin.com/in/sourik-paul7](http://www.linkedin.com/in/sourik-paul7)
