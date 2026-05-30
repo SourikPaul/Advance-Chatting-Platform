@@ -1,7 +1,7 @@
 # Advance-Chatting-Platform
 # Fireball – Advanced Chatting Platform
 
-A real-time chat application built using **Java Spring Boot**, **WebSocket**, and **MySQL** to provide seamless communication between users. The platform supports user interactions, instant messaging, friend requests, and persistent message storage.
+A real-time chat application built using **Java Spring Boot**, and **MySQL** to provide seamless communication between users. The platform supports user interactions, instant messaging, friend requests, and persistent message storage.
 
 ## Features
 
@@ -22,8 +22,6 @@ A real-time chat application built using **Java Spring Boot**, **WebSocket**, an
 * Java 21
 * Spring Boot
 * Spring Web
-* Spring Data JPA
-* Spring WebSocket
 
 ### Database
 
